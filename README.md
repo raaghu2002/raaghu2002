@@ -1,126 +1,108 @@
-Hi, I'm Raghavendra S 👋
-Java Developer | Backend Engineer | Full-Stack Developer
+<h1 align="center">Hi 👋, I'm Raghavendra S</h1>
+<h3 align="center">Java Developer | Backend Engineer | Full-Stack Developer</h3>
 
-I am a passionate Software Engineer specializing in Java, Spring Boot, React.js, and full-stack web application development. I enjoy building scalable backend services, intuitive frontends, and end-to-end solutions using modern technologies.
-I have hands-on experience working in Agile teams, developing RESTful APIs, managing MySQL/PostgreSQL databases, and contributing to real-world projects during my internship at WizzyBox Private Limited.
+<p align="center">
+  <a href="mailto:raaghu2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/raghavendra2002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/raaghu2002"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://raghavendras.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-🚀 Tech Stack
-Programming Languages
+---
 
-Java 21, Java 8
+## 🚀 About Me
 
-JavaScript (ES6+), SQL, Python
+Aspiring **Software Engineer** with hands-on experience in building scalable applications using  
+**Java, Spring Boot, React.js, MySQL**, and modern backend technologies.
 
-HTML5, CSS3
+Currently working as a **Java Developer Intern at WizzyBox Pvt Ltd**, contributing to backend  
+architecture, API development, and database optimization.
 
-Backend & Frameworks
+---
 
-Spring Boot 3.5.6, Spring MVC, Spring Core
+## 🛠️ Tech Stack & Tools
 
-Hibernate 6.6.3.1, JPA
+### **👨‍💻 Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-JDBC, Servlets, JSP
+### **🧩 Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgen&logoColor=white"/>
+</p>
 
-Microservices Architecture
+### **🎨 Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
 
-Frontend
+### **🗄️ Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-React.js 19.2
+### **🛠️ Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+</p>
 
-Bootstrap, JavaScript
+---
 
-Node.js
+## 💼 Experience
 
-Database
+### **Java Developer Intern — WizzyBox Pvt Ltd (Feb 2025 – Present)**
+- Built scalable backend modules using **Java + Spring Boot**  
+- Designed & developed **RESTful APIs**  
+- Performed API validation & manual testing using **Postman**  
+- Worked on **database schema design & optimization**  
+- Used **Git/GitHub** for collaborative development  
+- Participated in Agile sprints, standups, and SDLC processes  
 
-MySQL, PostgreSQL
+---
 
-Tools & DevOps
+## 📌 Projects
 
-Git & GitHub
+### **🩺 Disease Prediction & Healthcare Locator System**
+- ML-powered health prediction (85% accuracy)  
+- Real-time hospital locator via REST API  
+- **Stack:** React, Node.js, Python, ML  
 
-Docker Engine
+### **🏭 Yashaswi Traders Business Website**
+- Full-stack website for a fabrication company  
+- Improved customer engagement with modern UI  
+- **Stack:** React.js, Node.js  
 
-Apache Maven, Postman
+---
 
-Apache Tomcat 9
+## 🏅 Achievements
+- **Comed Kares Tech-X 2024 – Award Winner**
+- Blockchain Research Publication in **JETIR (May 2025)**
 
-Eclipse, IntelliJ IDEA, VS Code, STS
+---
 
-🧑‍💻 Professional Experience
-Java Developer Intern — WizzyBox Private Limited, Bengaluru
+## 📫 Contact Me
 
-Feb 2025 – Present
+<p>
+  <a href="mailto:raaghu2002@gmail.com"><img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/raghavendra2002"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://raghavendras.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-Developed backend features using Java + Spring Boot for enterprise applications
+---
 
-Built RESTful APIs with optimized design, proper HTTP status codes & responses
-
-Implemented CRUD operations using Hibernate & JPA
-
-Created and tested APIs using Postman
-
-Managed MySQL databases, schema design & performance improvements
-
-Followed Git branching, pull requests, and code reviews
-
-Worked in Agile environment with sprint planning & standups
-
-Contributed to full SDLC from requirements to deployment
-
-📂 Projects
-🔹 Disease Prediction & Healthcare Locator System
-
-Built full-stack health solution with dual disease prediction models
-
-Achieved 85% accuracy using API models & 75% accuracy using custom ML DecisionTreeClassifier
-
-Integrated real-time hospital location services
-
-Tech Stack: React.js, Node.js, Python, ML, REST APIs
-
-Live: (Add if needed)
-
-🔹 Yashaswi Traders Business Website
-
-Developed responsive full-stack website for a steel fabrication enterprise
-
-Improved digital presence & customer engagement
-
-Built using React.js with modern component architecture
-
-Live: https://yashaswitraders.in/
-
-📝 Research Publication
-
-Decentralized Voting System Using Blockchain
-Published in JETIR — May 2025
-DOI: 10.1109/TASC.2023.3340648
-
-🏆 Awards
-
-Comed Kares Tech-X 2024 — Award Winner
-
-🎯 What I’m Looking For
-
-I am actively seeking opportunities as a:
-
-Java Developer
-
-Backend Developer
-
-Software Engineer
-
-Full-Stack Developer (Java + React)
-
-Open to internships, full-time roles, and freelance projects.
-
-📬 Connect With Me
-
-Portfolio: raghavendras.netlify.app
-
-LinkedIn: linkedin.com/in/raghavendra2002
-
-GitHub: github.com/raaghu2002
-
-Email: raaghu2002@gmail.com
+### ⭐ If you like my work, consider giving a star to my repositories!
