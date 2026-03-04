@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-Aspiring **Software Engineer** with hands-on experience in building scalable applications using  
-**Java, Spring Boot, React.js, MySQL**, and modern backend technologies.
+**Java Developer & Backend Engineer** with hands-on experience in enterprise application development using  
+**Java 8/21, Spring Boot, Hibernate**, and modern backend technologies.
 
-Currently working as a **Java Developer Intern at WizzyBox Pvt Ltd**, contributing to backend  
-architecture, API development, and database optimization.
+Currently working as a **Programmer Analyst Trainee at Cognizant Technology Solutions**, building  
+Java-based enterprise applications with Spring Boot and REST APIs.
 
-Passionate about **Generative AI, LLMs, and Agentic AI systems** — actively exploring how  
-AI can be integrated into enterprise-grade backend architectures to build smarter, context-aware applications.
+Passionate about **Generative AI, Agentic AI, RAG, and LLMs** — actively building AI-integrated  
+backend systems that bridge enterprise Java engineering with modern AI capabilities.
 
 -----
 
@@ -28,7 +28,7 @@ AI can be integrated into enterprise-grade backend architectures to build smarte
 ### **👨‍💻 Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%2021-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,17 +37,35 @@ AI can be integrated into enterprise-grade backend architectures to build smarte
 ### **🧩 Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot%203.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate%206.x-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets%20%2F%20JSP-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
+
+### **🤖 AI / GenAI Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-007ACC?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-00C853?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fine%20Tuning-FF4081?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6200EA?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PGVector-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20Search-00BCD4?style=for-the-badge&logo=elastic&logoColor=white"/>
 </p>
 
 ### **🎨 Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -58,136 +76,156 @@ AI can be integrated into enterprise-grade backend architectures to build smarte
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-FF4F64?style=for-the-badge&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PGVector-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### **🛠️ Tools & DevOps**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git%202.50-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 </p>
 
-### **🤖 AI / GenAI Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-007ACC?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-00C853?style=for-the-badge&logo=autogen&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fine%20Tuning-FF4081?style=for-the-badge&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6200EA?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vector%20Search-00BCD4?style=for-the-badge&logo=elastic&logoColor=white"/>
-</p>
-
 -----
 
-## 🤖 AI & GenAI Interests
+## 🤖 AI & GenAI Expertise
 
-> *“The next evolution of backend engineering is AI-native architecture.”*
-
-I’m deeply passionate about the intersection of **backend engineering and artificial intelligence**. Here’s what I’m actively exploring and building:
-
-### 🧠 Large Language Models (LLMs)
-
-- Understanding transformer architectures, attention mechanisms, and how LLMs like **GPT-4, LLaMA, Mistral, and Gemini** work under the hood
-- Integrating LLM APIs into Spring Boot microservices for intelligent, context-aware applications
-- Exploring **token optimization**, context window management, and cost-efficient LLM usage
+> *“The next evolution of backend engineering is AI-native architecture — and I’m building it with Java + Spring AI.”*
 
 ### 🔍 Retrieval-Augmented Generation (RAG)
 
-- Building RAG pipelines that ground LLM responses in domain-specific knowledge bases
-- Working with **vector databases** (Pinecone, ChromaDB, FAISS) for semantic similarity search
-- Designing document ingestion pipelines with **chunking strategies and embedding models**
-- Combining RAG with Spring Boot backends to deliver **enterprise-ready AI search systems**
+- Built production-grade RAG pipelines using **Spring AI + PGVector** for historical incident retrieval
+- Designed document ingestion pipelines with chunking strategies and embedding models
+- Implemented **semantic similarity search** over vector stores for domain-specific Q&A
+- Experience integrating RAG into Spring Boot microservice architectures
 
-### 🤖 Agentic AI & Multi-Agent Systems
+### 🤖 Agentic AI & Tool Calling
 
-- Exploring **LangChain Agents**, **AutoGen**, and **CrewAI** frameworks for autonomous task execution
-- Building agentic workflows where AI models plan, reason, use tools, and execute multi-step tasks
-- Designing **tool-calling pipelines** that let agents interact with APIs, databases, and external services
-- Understanding **ReAct (Reasoning + Acting)** and **Chain-of-Thought (CoT)** prompting patterns
+- Built **Agentic AI workflows** using **Spring AI tool calling** for autonomous root cause analysis
+- Designed multi-agent systems that plan, reason, and execute remediation recommendations
+- Familiar with **LangChain Agents**, **CrewAI**, and **AutoGen** for multi-agent orchestration
+- Applied **ReAct (Reasoning + Acting)** and **Chain-of-Thought (CoT)** prompting patterns
+
+### 🧠 Large Language Models (LLMs)
+
+- Integrating LLM APIs into Spring Boot services for intelligent, context-aware applications
+- Understanding transformer architectures, attention mechanisms, and models like **GPT-4, LLaMA, Mistral**
+- Experience with token optimization, context window management, and cost-efficient LLM usage
 
 ### 🎛️ Fine-Tuning & Model Customization
 
-- Hands-on exploration of **Parameter-Efficient Fine-Tuning (PEFT)** techniques like **LoRA** and **QLoRA**
-- Fine-tuning open-source models on **domain-specific datasets** using HuggingFace Transformers
-- Understanding RLHF (Reinforcement Learning from Human Feedback) and instruction tuning
-- Experimenting with **model quantization** for lightweight local deployment
+- Exploring **PEFT techniques — LoRA and QLoRA** with HuggingFace Transformers
+- Fine-tuning open-source models on domain-specific datasets
+- Understanding **RLHF** and instruction tuning for production-grade LLM alignment
 
 ### ✍️ Prompt Engineering
 
-- Mastering **zero-shot, few-shot, chain-of-thought, and tree-of-thought** prompting strategies
-- Designing **system prompts** for consistent, reliable LLM behavior in production
-- Using **structured outputs** and **function calling** for predictable JSON responses from LLMs
-- Applying prompt engineering to reduce hallucinations and improve response quality
+- Mastering **zero-shot, few-shot, chain-of-thought** prompting strategies
+- Designing system prompts for consistent, reliable LLM behavior in production
+- Using **structured outputs and function calling** for predictable JSON responses from LLMs
 
-### 🔗 AI-Integrated Backend Engineering
+### ⚡ AI-Integrated Backend (Java + AI)
 
-- Integrating AI capabilities into **Spring Boot microservices** via REST API wrappers
-- Building **AI middleware layers** for preprocessing, validation, and post-processing LLM outputs
-- Designing **async AI pipelines** with Kafka for non-blocking LLM inference in backend systems
-- Implementing **semantic caching** and **response streaming** for optimized AI API usage
+- Built **async AI event pipelines** using **Apache Kafka** between AI agents
+- Centralized AI observability and log aggregation using the **ELK Stack**
+- Containerized end-to-end AI infrastructure using **Docker + Docker Compose**
 
 -----
 
 ## 💼 Experience
 
-### **Java Developer Intern — WizzyBox Pvt Ltd (Feb 2025 – Present)**
+### **Programmer Analyst Trainee — Cognizant Technology Solutions, Chennai**
 
-- Built scalable backend modules using **Java + Spring Boot**
-- Designed & developed **RESTful APIs**
-- Performed API validation & manual testing using **Postman**
-- Worked on **database schema design & optimization**
-- Used **Git/GitHub** for collaborative development
-- Participated in Agile sprints, standups, and SDLC processes
+#### *Feb 2026 – Present*
+
+- Working on **Java-based enterprise applications** using Spring Boot and REST APIs
+- Supporting backend feature development, enhancements, and defect fixes
+- Assisting with database operations using **JPA and Hibernate**
+- Participating in Agile ceremonies including sprint planning and daily standups
+- Collaborating with cross-functional teams to support application delivery
+
+-----
+
+### **Java Developer Intern — WizzyBox Private Limited, Bengaluru**
+
+#### *Feb 2025 – Jan 2026*
+
+- Designed and implemented **RESTful APIs** with proper HTTP methods, status codes, and JSON responses
+- Utilized **Hibernate ORM** for database operations and efficient CRUD functionalities
+- Managed **MySQL databases** including schema design, query optimization, and data integrity
+- Participated in Agile development cycles including sprint planning, standups, and retrospectives
+- Engaged in complete **SDLC** from requirements analysis through development, testing, and deployment
 
 -----
 
 ## 📌 Projects
 
+### **🧠 Agentic AI-Driven Autonomous Incident Intelligence System** *(POC)*
+
+> *Real-world Agentic AI + Spring Boot — built for enterprise microservices observability*
+
+- Designed an **AI-driven incident intelligence system** for microservices using **Spring Boot + Java 17**
+- Integrated **Retrieval-Augmented Generation (RAG)** using **Spring AI + PGVector** for historical incident retrieval
+- Applied **Agentic AI with Spring AI tool calling** for automated root cause analysis and remediation recommendations
+- Streamed anomaly events **asynchronously between agents** using **Apache Kafka**
+- Centralized log aggregation and observability using the **ELK Stack**
+- Containerized the complete POC infrastructure using **Docker + Docker Compose**
+
+**Stack:** `Java 17` `Spring Boot` `Spring AI` `PGVector` `Apache Kafka` `ELK Stack` `Docker`
+
+-----
+
 ### **🩺 Disease Prediction & Healthcare Locator System**
 
-- ML-powered health prediction (85% accuracy)
-- Real-time hospital locator via REST API
-- **Stack:** React, Node.js, Python, ML
+- ML-powered health prediction achieving **85% accuracy**
+- Real-time hospital locator via REST API integration
+
+**Stack:** `React` `Node.js` `Python` `Machine Learning`
+
+-----
 
 ### **🏭 Yashaswi Traders Business Website**
 
-- Full-stack website for a fabrication company
-- Improved customer engagement with modern UI
-- **Stack:** React.js, Node.js
+- Built a responsive **full-stack website** for a fabrication business
+- Developed frontend with **React.js 19** with component-based architecture and state management
+- Created RESTful backend services for content delivery, improving customer reach and digital presence
 
-### **🤖 AI-Powered RAG Chatbot** *(Exploration Project)*
-
-- Built a Retrieval-Augmented Generation chatbot using **LangChain + OpenAI**
-- Ingested custom documents into a **vector store (ChromaDB)** for domain-specific Q&A
-- Integrated the chatbot backend with a **Spring Boot REST API layer**
-- **Stack:** Python, LangChain, ChromaDB, OpenAI API, Spring Boot
+**Stack:** `React.js 19` `Node.js`
 
 -----
 
 ## 📚 Currently Learning
 
 ```
-🔬 LLM Fine-Tuning with LoRA / QLoRA on HuggingFace
+🔬 LLM Fine-Tuning with LoRA / QLoRA on HuggingFace Transformers
 🕸️  Agentic AI Frameworks — LangChain Agents, CrewAI, AutoGen
-🧩 RAG Pipeline Optimization — Hybrid Search, Re-Ranking, HyDE
-🔗 Spring AI — Official Spring Framework for LLM Integration
+🧩 Advanced RAG — Hybrid Search, Re-Ranking, HyDE, GraphRAG
+🌱 Spring AI — Deep-diving into tool calling, embeddings, and vector stores
 📊 LLMOps — Model evaluation, observability, and deployment best practices
+🔐 AI Safety — Guardrails, prompt injection prevention, responsible AI
 ```
 
 -----
 
-## 🏅 Achievements
+## 🏅 Achievements & Publications
 
-- **Comed Kares Tech-X 2024 – Award Winner**
-- Blockchain Research Publication in **JETIR (May 2025)**
+- 🏆 **Comed Kares Tech-X 2024 — Award Winner** *(May 2024)*
+- 📄 **Research Publication:** *Decentralized Voting System Using Blockchain*  
+  Journal of Emerging Technologies and Innovative Research **(JETIR) — May 2025**  
+  DOI: `10.1109/TASC.2023.3340648`
+
+-----
+
+## 🎓 Education
+
+|Degree                           |Institution                             |Score       |Year       |
+|---------------------------------|----------------------------------------|------------|-----------|
+|B.E. in Computer Science         |Maharaja Institute of Technology, Mysuru|CGPA: 8.7/10|2022 – 2025|
+|Diploma in Automobile Engineering|CPC Polytechnic, Mysuru                 |81.5%       |2019 – 2022|
 
 -----
 
